@@ -1,1 +1,137 @@
-[]
+{
+  "version": 1,
+  "chapters": [
+    {
+      "id": "manual-kingdom-raw-jap-890",
+      "mangaId": "kingdom-raw",
+      "mangaTitle": "キングダム raw ( Kingdom Raw )",
+      "number": 890,
+      "title": "キングダム raw - Kingdom Raw 第890話 | JAP",
+      "slug": "kingdom-raw-jap-890",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-kingdom-raw-eng-890",
+      "mangaId": "kingdom-raw",
+      "mangaTitle": "キングダム raw ( Kingdom Raw )",
+      "number": 890,
+      "title": "キングダム raw - Kingdom Raw 第890話 | ENG",
+      "slug": "kingdom-raw-eng-890",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-one-piece-raw-jap-1195",
+      "mangaId": "one-piece",
+      "mangaTitle": "One Piece",
+      "number": 1195,
+      "title": "ワンピース raw ( One Piece raw ) 第1195話 | JAP",
+      "slug": "one-piece-raw-jap-1195",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-one-piece-raw-eng-1195",
+      "mangaId": "one-piece",
+      "mangaTitle": "One Piece",
+      "number": 1195,
+      "title": "ワンピース raw ( One Piece raw ) 第1195話 | ENG",
+      "slug": "one-piece-raw-eng-1195",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-blue-lock-raw-jap-364-2",
+      "mangaId": "blue-lock",
+      "mangaTitle": "Blue Lock",
+      "number": 364.2,
+      "title": "ブルーロック raw ( Blue Lock raw ) 第364.2話 | JAP",
+      "slug": "blue-lock-raw-jap-364-2",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-blue-lock-raw-eng-364-2",
+      "mangaId": "blue-lock",
+      "mangaTitle": "Blue Lock",
+      "number": 364.2,
+      "title": "ブルーロック raw ( Blue Lock raw ) 第364.2話 | ENG",
+      "slug": "blue-lock-raw-eng-364-2",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-blue-lock-raw-jap-365",
+      "mangaId": "blue-lock",
+      "mangaTitle": "Blue Lock",
+      "number": 365,
+      "title": "ブルーロック raw ( Blue Lock raw ) 第365話 | JAP",
+      "slug": "blue-lock-raw-jap-365",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-sakamoto-days-raw-jap-278",
+      "mangaId": "days",
+      "mangaTitle": "SakaMoto DAYS",
+      "number": 278,
+      "title": "サカモトデイズ raw ( SAKAMOTO DAYS raw ) 第278話",
+      "slug": "sakamoto-days-raw-jap-278",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-sakamoto-days-raw-eng-278",
+      "mangaId": "days",
+      "mangaTitle": "SakaMoto DAYS",
+      "number": 278,
+      "title": "サカモトデイズ raw ( SAKAMOTO DAYS raw ) 第278話 | ENG",
+      "slug": "sakamoto-days-raw-eng-278",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-kagurabachi-raw-jap-134",
+      "mangaId": "kagurabachi",
+      "mangaTitle": "Kagurabachi",
+      "number": 134,
+      "title": "カグラバチ raw ( Kagurabachi raw ) 第134話 | Jap",
+      "slug": "kagurabachi-raw-jap-134",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    },
+    {
+      "id": "manual-kagurabachi-raw-eng-134",
+      "mangaId": "kagurabachi",
+      "mangaTitle": "Kagurabachi",
+      "number": 134,
+      "title": "カグラバチ raw ( Kagurabachi raw ) 第134話 | ENG",
+      "slug": "kagurabachi-raw-eng-134",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-10-10T05:56:49.605Z",
+      "updatedAt": "2026-10-10T05:56:49.605Z"
+    }
+  ]
+}
